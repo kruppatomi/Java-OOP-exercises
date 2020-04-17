@@ -7,4 +7,5 @@ In this repository you can find java-oop projects:
   This app is a network simulation wit connected devices. 
   ## Taxi company
   In this app I tried to model a taxi company
-###Check my other projects if you have time ;)
+  
+  ### Check my other projects if you have time ;)
