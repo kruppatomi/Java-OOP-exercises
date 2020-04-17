@@ -1,6 +1,6 @@
 # Java-OOP-exercises
 
-In this repository you can find some small java projects:
+In this repository you can find java-oop projects:
   ## Location
   ## Network
   ## Taxi company
